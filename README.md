@@ -58,7 +58,9 @@ The project uses a banking dataset containing customer information and their res
 - Visualizations of the decision boundary (if applicable).
 
 ## Contributions
-
+### Team Member:
+Shafat Alam
+Marjana Begum
 Feel free to fork this repository and contribute to improving the model or adding new features. Pull requests are welcome!
 
 ## License
